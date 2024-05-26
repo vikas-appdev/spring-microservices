@@ -12,6 +12,6 @@ server.port=8888
 spring.cloud.config.server.git.uri = local git folder location
 ```
 
-- Create folder git-local-config-repo
+<p>Create folder git-local-config-repo</p>
 
 
